@@ -1,0 +1,2 @@
+name= "イシダリョウ"
+puts name
